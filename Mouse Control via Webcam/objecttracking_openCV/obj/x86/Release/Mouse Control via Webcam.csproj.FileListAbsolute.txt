@@ -1,0 +1,96 @@
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\objecttracking_openCV.exe.config
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\obj\x86\Release\objecttracking_openCV.exe
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\obj\x86\Release\objecttracking_openCV.pdb
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_calib3d240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_contrib240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_core240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_features2d240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_ffmpeg240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_flann240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_gpu240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_highgui240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_imgproc240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_legacy240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_ml240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_nonfree240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_objdetect240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_photo240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_stitching240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_video240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\opencv_videostab240.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\objecttracking_openCV.exe
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\objecttracking_openCV.pdb
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.DebuggerVisualizers.VS2008.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.GPU.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.ML.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.OCR.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.Stitching.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.UI.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.Util.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\ZedGraph.dll
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.xml
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.GPU.xml
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.ML.xml
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.OCR.xml
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.Stitching.xml
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.CV.UI.xml
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\Emgu.Util.xml
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\obj\x86\Release\objecttracking_openCV.Form1.resources
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\obj\x86\Release\objecttracking_openCV.Properties.Resources.resources
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\objecttracking_openCV.exe.manifest
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\bin\Release\objecttracking_openCV.application
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\obj\x86\Release\objecttracking_openCV.exe.manifest
+D:\Mouse_Control_via_Webcam V 2.0\objecttracking_openCV\objecttracking_openCV\obj\x86\Release\objecttracking_openCV.application
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_calib3d240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_contrib240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_core240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_features2d240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_ffmpeg240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_flann240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_gpu240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_highgui240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_imgproc240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_legacy240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_ml240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_nonfree240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_objdetect240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_photo240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_stitching240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_video240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\opencv_videostab240.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.DebuggerVisualizers.VS2008.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.GPU.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.ML.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.OCR.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.Stitching.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.UI.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.Util.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\ZedGraph.dll
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.xml
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.GPU.xml
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.ML.xml
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.OCR.xml
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.Stitching.xml
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.CV.UI.xml
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Emgu.Util.xml
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\obj\x86\Release\objecttracking_openCV.Form1.resources
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Mouse Control via Webcam.exe.config
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Mouse Control via Webcam.exe.manifest
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Mouse Control via Webcam.application
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Mouse Control via Webcam.exe
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\bin\Release\Mouse Control via Webcam.pdb
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\obj\x86\Release\Mouse_Control_via_Webcam.Properties.Resources.resources
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\obj\x86\Release\Mouse Control via Webcam.exe.manifest
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\obj\x86\Release\Mouse Control via Webcam.application
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\obj\x86\Release\Mouse Control via Webcam.exe
+D:\Mouse_Control_via_Webcam V 2.0\Mouse Control via Webcam\objecttracking_openCV\obj\x86\Release\Mouse Control via Webcam.pdb
